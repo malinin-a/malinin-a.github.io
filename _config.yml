@@ -19,12 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Something should be written here
+author: Alex Malinin
 email: a.malinin@protonmail.ch
 description: >- # this means to ignore newlines until "baseurl:"
   I should write an awesome description here for some reasons.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: malinin-a
 github_username:  malinin-a
 
 # Build settings
