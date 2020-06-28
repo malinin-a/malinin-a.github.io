@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /__about_9166547279_hidden/
+title: Test
+permalink: /__test_9166547279_hidden/
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
