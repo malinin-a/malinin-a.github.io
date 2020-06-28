@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Hello!"
+date:   2020-06-29 01:47:00 +0300
+categories: helloworld
+---
+Text with meaningless content and some code below
+
+{% highlight ruby %}
+#include <iostream>
+
+int main()
+{
+    std::cout << "hello world! << std::endl;
+}
+{% endhighlight %}
+
