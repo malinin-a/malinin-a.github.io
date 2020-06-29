@@ -3,12 +3,11 @@ layout: post
 title:  "Starting point"
 date:   2020-06-29 01:47:00 +0300
 categories: helloworld
-excerpt_separator: <!--end_excerpt-->
 ---
 
 Some brief description.
 
-<!--end_excerpt-->
+<!--more-->
 
 Text with meaningless content and some code below
 
