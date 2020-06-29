@@ -26,7 +26,9 @@ layout: default
         {% else %}
           {{ post.excerpt }}
         {% endif %}
-        <a href="{{ post.url | relative_url }}">More...</a>
+        {% if post.excerpt != post.content %}
+          <a href="{{ post.url | relative_url }}">More...</a>
+        {% endif %}
       </li>
       {%- endfor -%}
     </ul>
