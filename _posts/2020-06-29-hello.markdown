@@ -6,10 +6,8 @@ categories: ['helloworld', 'code']
 published: true
 excerpt_separator: <!--more-->
 ---
-Excerpt
+Some excerpt.
 <!--more-->   
-
-Some brief description.
 
 Text with meaningless content and some code below
 
